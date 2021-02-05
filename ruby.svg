@@ -1,0 +1,12 @@
+<svg height="500" width="500">
+  <polygon points="130,0 370,00 500,130 500,370 370,500 130,500 0,370 0,130 " style="fill: darkred; stroke: red; stroke-width: 1" />
+  <polygon points="150,50 350,50 450,150 450,350 350,450 150,450 50,350 50,150 " style="fill: red; stroke: red; stroke-width: 1" />
+  <polygon points="150,50 350,50 300,150 200,150" style="fill: #f15962; stroke: red; stroke-width: 1" />
+  <polygon points="350,50 450,150 350,200 300,150" style="fill: #f52930; stroke: red; stroke-width: 1" />
+  <polygon points="450,150 450,350 350,300 350,200" style="fill: #ad0007; stroke: red; stroke-width: 1" />
+  <polygon points="450,350 350,450 300,350 350,300" style="fill: #890007; stroke: red; stroke-width: 1" />
+  <polygon points="350,450 150,450 200,350 300,350" style="fill: #ad0007; stroke: red; stroke-width: 1" />
+  <polygon points="150,450 50,350 150,300 200,350" style="fill: #f52930; stroke: red; stroke-width: 1" />
+  <polygon points="50,350 50,150 150,200 150,300" style="fill: #f15962; stroke: red; stroke-width: 1" />
+  <polygon points="50,150 150,50 200,150 150,200" style="fill: #f2979e; stroke: red; stroke-width: 1" />
+</svg>
